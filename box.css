@@ -15,8 +15,8 @@
 }
 #OBAL {
 	position: absolute;
-	width: 720px;
-	height: 1600px;
+	width: 218px;
+	height: 441px;
 	background-color: rgba(34,34,34,1);
 	overflow: hidden;
 	--web-view-name: OBAL;
@@ -24,42 +24,17 @@
 	--web-scale-on-resize: true;
 	--web-enable-deep-linking: true;
 }
-#obal {
-	position: absolute;
-	width: 707px;
-	height: 1587px;
-	left: 6px;
-	top: 6px;
-	overflow: visible;
-}
-#Rectangle_1 {
-	fill: rgba(34,34,34,1);
-	stroke: rgba(173,171,171,1);
-	stroke-width: 1px;
-	stroke-linejoin: miter;
-	stroke-linecap: butt;
-	stroke-miterlimit: 4;
-	shape-rendering: auto;
-}
-.Rectangle_1 {
-	position: absolute;
-	overflow: visible;
-	width: 707px;
-	height: 1587px;
-	left: 0px;
-	top: 0px;
-}
 #dis {
 	position: absolute;
-	width: 691px;
-	height: 1572px;
-	left: 14px;
-	top: 15px;
+	width: 205px;
+	height: 425px;
+	left: 6px;
+	top: 8px;
 	overflow: visible;
 }
 #Rectangle_2 {
 	fill: rgba(114,114,114,1);
-	stroke: rgba(112,112,112,1);
+	stroke: rgba(44,172,127,1);
 	stroke-width: 1px;
 	stroke-linejoin: miter;
 	stroke-linecap: butt;
@@ -69,17 +44,17 @@
 .Rectangle_2 {
 	position: absolute;
 	overflow: visible;
-	width: 691px;
-	height: 1572px;
+	width: 205px;
+	height: 425px;
 	left: 0px;
 	top: 0px;
 }
 #Component_2__1 {
 	position: absolute;
-	width: 674px;
-	height: 1548px;
-	left: 23px;
-	top: 29px;
+	width: 180px;
+	height: 399px;
+	left: 16px;
+	top: 20px;
 	overflow: visible;
 }
 #He {
@@ -87,12 +62,12 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 675px;
-	height: 1548px;
+	width: 180px;
+	height: 400px;
 	text-align: left;
 	font-family: Roboto;
 	font-style: normal;
 	font-weight: normal;
-	font-size: 14px;
+	font-size: 10px;
 	color: rgba(221,214,214,1);
 }
