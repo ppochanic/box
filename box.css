@@ -15,8 +15,8 @@
 }
 #OBAL {
 	position: absolute;
-	width: 320px;
-	height: 600px;
+	width: 720px;
+	height: 1600px;
 	background-color: rgba(34,34,34,1);
 	overflow: hidden;
 	--web-view-name: OBAL;
@@ -26,8 +26,8 @@
 }
 #obal {
 	position: absolute;
-	width: 309px;
-	height: 587px;
+	width: 707px;
+	height: 1587px;
 	left: 6px;
 	top: 6px;
 	overflow: visible;
@@ -44,15 +44,15 @@
 .Rectangle_1 {
 	position: absolute;
 	overflow: visible;
-	width: 309px;
-	height: 587px;
+	width: 707px;
+	height: 1587px;
 	left: 0px;
 	top: 0px;
 }
 #dis {
 	position: absolute;
-	width: 294px;
-	height: 567px;
+	width: 691px;
+	height: 1572px;
 	left: 14px;
 	top: 15px;
 	overflow: visible;
@@ -69,15 +69,15 @@
 .Rectangle_2 {
 	position: absolute;
 	overflow: visible;
-	width: 294px;
-	height: 567px;
+	width: 691px;
+	height: 1572px;
 	left: 0px;
 	top: 0px;
 }
 #Component_2__1 {
 	position: absolute;
-	width: 278px;
-	height: 543px;
+	width: 674px;
+	height: 1548px;
 	left: 23px;
 	top: 29px;
 	overflow: visible;
@@ -87,8 +87,8 @@
 	top: 0px;
 	position: absolute;
 	overflow: visible;
-	width: 279px;
-	height: 543px;
+	width: 675px;
+	height: 1548px;
 	text-align: left;
 	font-family: Roboto;
 	font-style: normal;
